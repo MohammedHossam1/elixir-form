@@ -3,6 +3,7 @@ import { CourseContent } from "@/components/CourseContent";
 import { CourseIncludes } from "@/components/CourseIncludes";
 import { CourseDetails } from "@/components/CourseDetails";
 import { RegistrationForm } from "@/components/RegistrationForm";
+import { Footer } from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -12,6 +13,7 @@ const Index = () => {
       <CourseIncludes />
       <CourseDetails />
       <RegistrationForm />
+      <Footer />
     </div>
   );
 };
