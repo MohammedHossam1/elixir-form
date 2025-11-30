@@ -24,7 +24,7 @@ export const Hero = () => {
         <div className="max-w-xl w-full animate-fade-in" dir="rtl">
           <div className="mb-10">
             <span className="inline-block px-5 py-2 rounded-full bg-primary/15 text-primary text-sm font-medium mb-6 animate-slide-in backdrop-blur-sm">
-              و التسجيل مفتوح الآن
+              التسجيل مفتوح الآن
             </span>
             <h1 className="text-4xl lg:text-6xl font-bold text-foreground mb-5  tracking-tight">
               الدورة المكثّفة <span className="block mt-4" >في الكوسمتيكا</span>
